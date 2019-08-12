@@ -20,7 +20,7 @@ end
 
 def modulo(num1, num2)
 r = num1 / num2
-n = num2 * num1
+n = num2 * r
 num1 - 
 return r
 end
