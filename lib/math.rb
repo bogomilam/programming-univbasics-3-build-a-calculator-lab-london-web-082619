@@ -19,9 +19,7 @@ return sum
 end
 
 def modulo(num1, num2)
-a = num1 / num2
-n = num2 * a
-r = n - num1 
+r = num1.0 / num2.0
 return r
 end
 
