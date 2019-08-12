@@ -19,7 +19,7 @@ return sum
 end
 
 def modulo(num1, num2)
-r = num1.to_f / num2.0
+r = num1.to_f / num2.to_f
 return 
 end
 
