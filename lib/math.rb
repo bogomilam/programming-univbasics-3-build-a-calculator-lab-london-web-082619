@@ -19,7 +19,7 @@ return sum
 end
 
 def modulo(num1, num2)
-sum = num1 / num2
+r = num1 / num2
 y * q + r = x
 return sum
 end
