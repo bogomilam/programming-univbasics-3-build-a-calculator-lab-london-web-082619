@@ -20,8 +20,7 @@ end
 
 def modulo(num1, num2)
 r = num1 / num2
-x = num2 * num1 + r
-return r + x
+return r
 end
 
 def square_root(num)
