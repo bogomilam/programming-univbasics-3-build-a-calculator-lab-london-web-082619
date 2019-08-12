@@ -19,8 +19,8 @@ return sum
 end
 
 def modulo(num1, num2)
-r.0 = num1 / num2
-return r.0
+r = num1 / num2.0
+return r
 end
 
 def square_root(num)
