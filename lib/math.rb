@@ -24,5 +24,6 @@ return r
 end
 
 def square_root(num)
-
+sum = Math.sqrt(num)
+return sum
 end
